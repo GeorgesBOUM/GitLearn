@@ -1,6 +1,4 @@
 simulacre de fichier perso
 autre ligne
-<<<<<<< HEAD
 ajout ligne depuis dev
-=======
->>>>>>> perso
+
